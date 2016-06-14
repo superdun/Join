@@ -113,3 +113,10 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+.directioner_container {
+    position:absolute;
+}
+.directioner {
+    position: relative;
+}
